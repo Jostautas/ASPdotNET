@@ -10086,9 +10086,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\3\\Documents\\bandymai\\APSdotNET\\ASPdotNET\\WebApplication1\\WebApplication1.csproj",
-      "projectName": "WebApplication1",
-      "projectPath": "C:\\Users\\3\\Documents\\bandymai\\APSdotNET\\ASPdotNET\\WebApplication1\\WebApplication1.csproj",
+      "projectUniqueName": "C:\\Users\\3\\Documents\\bandymai\\APSdotNET\\ASPdotNET\\WebApplication1\\IBM.csproj",
+      "projectName": "IBM",
+      "projectPath": "C:\\Users\\3\\Documents\\bandymai\\APSdotNET\\ASPdotNET\\WebApplication1\\IBM.csproj",
       "packagesPath": "C:\\Users\\3\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\3\\Documents\\bandymai\\APSdotNET\\ASPdotNET\\WebApplication1\\obj\\",
       "projectStyle": "PackageReference",

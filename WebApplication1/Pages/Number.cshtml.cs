@@ -19,23 +19,5 @@ namespace WebApplication1.Pages
 
         }
 
-        /*public int getNumber() {
-            using(var con = new SqlConnection("Data Source=(localdb)\\MSSQLLocalDB;Initial Catalog=aspnet-WebApplication1-53bc9b9d-9d6a-45d4-8429-2a2761773502;Integrated Security=True;Connect Timeout=30;Encrypt=False;TrustServerCertificate=False;ApplicationIntent=ReadWrite;MultiSubnetFailover=False"))
-            {
-                con.Open();
-                string query = "SELECT COUNT(*) FROM AspNetUsers";
-
-                using (var cmd = new SqlCommand(query, con))
-                {
-                    return (int)cmd.ExecuteScalar();
-                }
-            }
-        }*/
-        
-        /*public void Button1_Click(object sender, EventArgs e)
-        {
-            
-
-        }*/
     }
 }

@@ -2,6 +2,7 @@
 @model NumberModel
 @using System.Data;
 @using System.Data.SqlClient;
+
 @{
     int y = 0;
     ViewData["Title"] = "Number Page";
@@ -15,9 +16,8 @@
                     y = (int)RowCount;
                 }
             }
-
-    //var db = Database.Open("aspnet-WebApplication");
 }
+
 <div class="text-center">
     <h1 class="display-4">The number of total users is: @y</h1>
 </div>

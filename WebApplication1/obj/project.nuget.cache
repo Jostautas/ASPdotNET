@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "I+BQk/AMaJlfjC8yj9GiepbILDFtmGCwM7brqu1YKpj7QzZeRCbhLC/SYLBCH+qZT6IMGGW7IN5Ud/ZRKRVMVw==",
+  "dgSpecHash": "4FEpKbB5Jq0TRAjRdRmF90vBGjHe52PnG4l4LWZbxJO/Bp8EWaHLG5Oxu/9BtYKlEnYlqMzZ2JddxxJcpb08AA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\3\\Documents\\bandymai\\APSdotNET\\ASPdotNET\\WebApplication1\\WebApplication1.csproj",
+  "projectFilePath": "C:\\Users\\3\\Documents\\bandymai\\APSdotNET\\ASPdotNET\\WebApplication1\\IBM.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\3\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\3\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",
