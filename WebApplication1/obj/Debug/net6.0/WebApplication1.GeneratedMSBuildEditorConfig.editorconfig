@@ -27,6 +27,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/3/Documents/bandymai/APSdotNET/ASPdotNET/WebApplication1/Pages/Number.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTnVtYmVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/3/Documents/bandymai/APSdotNET/ASPdotNET/WebApplication1/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
@@ -45,26 +49,6 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/3/Documents/bandymai/APSdotNET/ASPdotNET/WebApplication1/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/3/Documents/bandymai/APSdotNET/ASPdotNET/WebApplication1/Views/Number/Create.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTnVtYmVyXENyZWF0ZS5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/3/Documents/bandymai/APSdotNET/ASPdotNET/WebApplication1/Views/Number/Delete.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTnVtYmVyXERlbGV0ZS5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/3/Documents/bandymai/APSdotNET/ASPdotNET/WebApplication1/Views/Number/Details.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTnVtYmVyXERldGFpbHMuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/3/Documents/bandymai/APSdotNET/ASPdotNET/WebApplication1/Views/Number/Edit.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTnVtYmVyXEVkaXQuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/3/Documents/bandymai/APSdotNET/ASPdotNET/WebApplication1/Views/Number/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTnVtYmVyXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/3/Documents/bandymai/APSdotNET/ASPdotNET/WebApplication1/Views/Shared/_ValidationScriptsPartial.cshtml]

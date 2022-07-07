@@ -6,7 +6,6 @@
 
         public Number()
         {
-            this.Id = 0;
         }
     }
 }
